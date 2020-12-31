@@ -1,13 +1,11 @@
 # demo
 Trial repo to create a nice profile
 
->Just a test
-
 ___
 
-- Hi
-- Test
+- Point 1
+- Point 2
 
----
+```
 print('hello')
----
+```
